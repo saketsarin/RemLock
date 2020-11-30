@@ -15,7 +15,7 @@ We recommend using android studio as the software requirements come with it.
 
 
 ## Usage
-1. `git clone https://github.com/DavidBuzatu-Marian/RemLock.git`
+1. `git clone https://github.com/saketsarin/RemLock.git`
 2. Open as project in android studio
 3. Run app
 
